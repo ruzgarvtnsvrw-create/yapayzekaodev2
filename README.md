@@ -10,5 +10,7 @@ Bu repo, yapay zekâ, makine öğrenmesi ve derin öğrenme kavramlarını temel
 - **İçerik Düzenleme:** Adobe
 - **Kaynaklar:** IBM Cloud Education, Google Cloud Learn, MIT OpenCourseWare
 
+- İndirmek için : https://github.com/user-attachments/files/34553919/MachineLearningSunumu.pdf
+
 ---
 *Hazırlayan: Rüzgar Vatansever*
